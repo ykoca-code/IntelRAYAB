@@ -6,6 +6,8 @@ import { localizedPath, type Dictionary, type Locale, type RouteKey } from '@/li
 const companyLinks: { key: RouteKey; label: keyof Dictionary['nav'] }[] = [
   { key: 'services', label: 'services' },
   { key: 'advisors', label: 'advisors' },
+  { key: 'pricing', label: 'pricing' },
+  { key: 'assessment', label: 'assessment' },
   { key: 'sectors', label: 'sectors' },
   { key: 'integrations', label: 'integrations' },
   { key: 'references', label: 'references' },

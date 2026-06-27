@@ -5,6 +5,8 @@
     "advisors": "AI Danışmanlar",
     "sectors": "Sektörler",
     "integrations": "Entegrasyonlar",
+    "pricing": "Fiyatlandırma",
+    "assessment": "Değerlendirme",
     "references": "Referanslar",
     "about": "Hakkımızda",
     "contact": "İletişim"
@@ -59,6 +61,14 @@
     "contact": {
       "title": "İletişim — IntelRAYAB",
       "description": "Ücretsiz Yapay Zekâ Hazırlık Değerlendirmesi için bizimle iletişime geçin. Teknopark İstanbul."
+    },
+    "pricing": {
+      "title": "Fiyatlandırma — IntelRAYAB",
+      "description": "Şeffaf paketler ve kurumsal çözümler. Başlangıç, Profesyonel ve Kurumsal Pro paketleri ile size özel Enterprise seçeneği."
+    },
+    "assessment": {
+      "title": "AI Hazırlık Değerlendirmesi — IntelRAYAB",
+      "description": "Birkaç soruyla kuruluşunuzun yapay zekâ dönüşümüne hazır olup olmadığını ve hangi modüllere ihtiyaç duyduğunu ücretsiz değerlendirin."
     },
     "privacy": {
       "title": "KVKK & Gizlilik — IntelRAYAB",
@@ -406,7 +416,7 @@
     },
     "list": [
       {
-        "name": "Hasçevher",
+        "name": "Hascevher",
         "domain": "hascevher.com",
         "logo": "hascevher",
         "blurb": "[DOLDUR: Hasçevher ile yürütülen proje/iş birliğinin kısa özeti.]",
@@ -529,6 +539,211 @@
       { "title": "Haklarınız", "body": "KVKK m.11 kapsamında verilerinize erişme, düzeltilmesini veya silinmesini talep etme haklarına sahipsiniz." },
       { "title": "İletişim", "body": "Talepleriniz için info@intelrayab.com adresine yazabilirsiniz." }
     ]
+  },
+  "pricing": {
+    "hero": {
+      "label": "Fiyatlandırma",
+      "title": "Her ölçeğe uygun, şeffaf paketler",
+      "subtitle": "Küçük adımlarla başlayın, ihtiyacınız büyüdükçe ölçekleyin. Tüm paketler kurumsal güvenlik ve KVKK uyumu standartlarımızı içerir."
+    },
+    "billingNote": "Fiyatlara KDV dâhil değildir. Yıllık ödemede 2 ay ücretsiz.",
+    "perMonth": "/ ay",
+    "mostPopular": "En popüler",
+    "featuresLabel": "Paket içeriği",
+    "plans": [
+      {
+        "id": "starter",
+        "name": "Başlangıç",
+        "price": "900 TL",
+        "tagline": "Yapay zekâya ilk adımını atan kuruluşlar için.",
+        "cta": "Başlayın",
+        "featured": false,
+        "features": [
+          "Kurumsal AI Asistanı (temel RAG, tek bilgi kaynağı)",
+          "1 fonksiyonel çözüm (ör. müşteri hizmetleri veya İK)",
+          "Aylık kullanım ve değer raporu",
+          "Temel KVKK kullanım politikası şablonu",
+          "E-posta ile destek"
+        ]
+      },
+      {
+        "id": "professional",
+        "name": "Profesyonel",
+        "price": "5.000 TL",
+        "tagline": "Büyüyen ve birden fazla departmanı dönüştürmek isteyen şirketler için.",
+        "cta": "Profesyonel'i Seçin",
+        "featured": true,
+        "features": [
+          "Başlangıç paketindeki her şey",
+          "Genişletilmiş RAG (çoklu bilgi kaynağı)",
+          "3 fonksiyonel çözüm",
+          "1 Yapay Zekâ Yönetim Danışmanı (ör. AI CFO veya AI CMO)",
+          "Veri panosu ve temel tahminleme",
+          "2 sistem entegrasyonu",
+          "Öncelikli destek"
+        ]
+      },
+      {
+        "id": "corporate",
+        "name": "Kurumsal Pro",
+        "price": "12.499 TL",
+        "tagline": "Yapay zekâyı operasyonun merkezine alan kuruluşlar için.",
+        "cta": "Kurumsal Pro'yu Seçin",
+        "featured": false,
+        "features": [
+          "Profesyonel paketteki her şey",
+          "Sınırsız fonksiyonel çözüm",
+          "3 Yapay Zekâ Yönetim Danışmanı",
+          "Gelişmiş tahminleme ve anomali tespiti",
+          "5 sistem entegrasyonu",
+          "Özel eğitim ve yetkinlik programı",
+          "Adanmış müşteri yöneticisi"
+        ]
+      }
+    ],
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Size Özel",
+      "tagline": "Holdingler ve çok şirketli yapılar için uçtan uca, özel kurulum.",
+      "cta": "Size Ulaşalım",
+      "features": [
+        "Tüm Yapay Zekâ Yönetim Danışmanları",
+        "Sınırsız entegrasyon ve özel entegrasyon geliştirme",
+        "Özel/şirket içi (on-premise) kurulum seçeneği",
+        "Sektöre özel model ince ayarı",
+        "Yönetim kurulu yapay zekâ danışmanlığı",
+        "SLA ve adanmış çözüm ekibi"
+      ]
+    },
+    "faqTitle": "Sıkça sorulan sorular",
+    "faq": [
+      { "q": "Paketler arasında geçiş yapabilir miyim?", "a": "Evet. İhtiyacınız büyüdükçe dilediğiniz zaman üst pakete geçebilir veya paketi özelleştirebilirsiniz." },
+      { "q": "Önce deneyebilir miyim?", "a": "Ücretsiz AI Hazırlık Değerlendirmesi ve kısa bir kavram kanıtı (POC) ile değeri yatırımdan önce görmenizi sağlıyoruz." },
+      { "q": "Fiyatlar neyi kapsıyor?", "a": "Kurulum, yapılandırma, sürekli iyileştirme ve destek paket kapsamına dâhildir. Üçüncü taraf model/lisans maliyetleri ayrıdır." }
+    ]
+  },
+  "assessment": {
+    "hero": {
+      "label": "AI Hazırlık Değerlendirmesi",
+      "title": "Firmanız yapay zekâ dönüşümüne hazır mı?",
+      "subtitle": "Birkaç dakikalık bu ücretsiz değerlendirme, kuruluşunuzun hazırlık düzeyini ölçer ve hangi yapay zekâ modüllerine öncelik vermeniz gerektiğini gösterir."
+    },
+    "start": "Değerlendirmeye Başla",
+    "intro": "7 soru · yaklaşık 2 dakika · kayıt gerekmez",
+    "questionLabel": "Soru",
+    "of": "/",
+    "back": "Geri",
+    "next": "İleri",
+    "seeResult": "Sonucu Gör",
+    "restart": "Yeniden Başla",
+    "questions": [
+      {
+        "id": "data",
+        "question": "Kurumsal verileriniz ne durumda?",
+        "options": [
+          { "label": "Çoğunlukla kâğıt üzerinde veya dağınık", "score": 0, "modules": ["data", "rag"] },
+          { "label": "Kısmen dijital, farklı sistemlerde", "score": 1, "modules": ["data"] },
+          { "label": "Çoğu dijital ve merkezi", "score": 2, "modules": [] },
+          { "label": "Tamamen dijital ve entegre", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "automation",
+        "question": "Tekrarlayan manuel işler (fatura, veri girişi, raporlama) iş yükünüzün ne kadarı?",
+        "options": [
+          { "label": "Çok yüksek — ekip zamanının büyük kısmı", "score": 0, "modules": ["automation"] },
+          { "label": "Yüksek", "score": 1, "modules": ["automation"] },
+          { "label": "Orta düzey", "score": 2, "modules": [] },
+          { "label": "Düşük — çoğu otomatik", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "knowledge",
+        "question": "Çalışanlarınız kurum içi bilgiye ne kadar hızlı ulaşıyor?",
+        "options": [
+          { "label": "Zor ulaşıyor, çok zaman alıyor", "score": 0, "modules": ["rag"] },
+          { "label": "Zaman zaman zorlanıyor", "score": 1, "modules": ["rag"] },
+          { "label": "Genelde hızlı", "score": 2, "modules": [] },
+          { "label": "Anında ve güvenilir", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "reporting",
+        "question": "Raporlama ve karar alma süreciniz nasıl işliyor?",
+        "options": [
+          { "label": "Manuel, Excel ağırlıklı ve gecikmeli", "score": 0, "modules": ["data"] },
+          { "label": "Kısmen otomatik", "score": 1, "modules": ["data"] },
+          { "label": "Canlı yönetim panoları mevcut", "score": 2, "modules": [] },
+          { "label": "İleri analitik ve tahminleme kullanıyoruz", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "literacy",
+        "question": "Ekibinizin yapay zekâ okuryazarlığı hangi seviyede?",
+        "options": [
+          { "label": "Çok düşük — deneyim yok", "score": 0, "modules": ["enablement"] },
+          { "label": "Temel düzey", "score": 1, "modules": ["enablement"] },
+          { "label": "İyi", "score": 2, "modules": [] },
+          { "label": "İleri düzey", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "security",
+        "question": "Veri güvenliği ve KVKK uyumu konusundaki durumunuz?",
+        "options": [
+          { "label": "Endişeliyiz, net bir politikamız yok", "score": 0, "modules": ["security"] },
+          { "label": "Temel önlemler mevcut", "score": 1, "modules": ["security"] },
+          { "label": "Çoğunlukla uyumlu", "score": 2, "modules": [] },
+          { "label": "Tam uyumlu ve düzenli denetleniyor", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "strategy",
+        "question": "Yapay zekâ dönüşümü için net bir yol haritanız var mı?",
+        "options": [
+          { "label": "Hayır, nereden başlayacağımızı bilmiyoruz", "score": 0, "modules": ["strategy"] },
+          { "label": "Fikrimiz var ama plan yok", "score": 1, "modules": ["strategy"] },
+          { "label": "Taslak bir planımız mevcut", "score": 2, "modules": ["strategy"] },
+          { "label": "Net bir yol haritamız var", "score": 3, "modules": [] }
+        ]
+      }
+    ],
+    "result": {
+      "title": "Değerlendirme Sonucunuz",
+      "scoreLabel": "Hazırlık puanınız",
+      "recommendedTitle": "Önceliklendirmenizi önerdiğimiz modüller",
+      "noModules": "Temel hazırlığınız güçlü görünüyor. Bir sonraki adım için Yapay Zekâ Yönetim Danışmanlarımızı değerlendirmenizi öneririz.",
+      "ctaTitle": "Kişiye özel yol haritanızı çıkaralım",
+      "ctaText": "Bu sonucu temel alarak, uzmanlarımızla ücretsiz bir görüşmede kuruluşunuza özel bir dönüşüm planı hazırlayalım.",
+      "cta": "Ücretsiz Görüşme Planlayın",
+      "viewPricing": "Paketleri İnceleyin",
+      "bands": [
+        {
+          "max": 9,
+          "level": "Başlangıç Aşaması",
+          "summary": "Yapay zekâdan elde edebileceğiniz kazanım potansiyeli çok yüksek. Temel veri altyapısı, otomasyon ve net bir strateji ile hızlı ve görünür sonuçlar elde edebilirsiniz."
+        },
+        {
+          "max": 16,
+          "level": "Gelişmekte",
+          "summary": "Birçok alanda yapay zekâya hazırsınız. Doğru modülleri önceliklendirerek kısa sürede ölçülebilir kazanımlar sağlayabilir ve rekabet avantajı kazanabilirsiniz."
+        },
+        {
+          "max": 21,
+          "level": "Dönüşüme Hazır",
+          "summary": "Kuruluşunuz yapay zekâ dönüşümüne büyük ölçüde hazır. İleri düzey çözümler ve Yapay Zekâ Yönetim Danışmanları ile sektörünüzde öne geçebilirsiniz."
+        }
+      ]
+    },
+    "modules": {
+      "rag": "Kurumsal AI Asistanı (RAG)",
+      "automation": "Süreç & Belge Otomasyonu",
+      "data": "Veri, Raporlama & Tahminleme",
+      "strategy": "AI Strateji & Yol Haritası",
+      "security": "Güvenli Kurumsal AI & KVKK",
+      "enablement": "AI Eğitimi & Yetkinlik",
+      "advisors": "Yapay Zekâ Yönetim Danışmanları"
+    }
   },
   "notFound": {
     "title": "Sayfa bulunamadı",

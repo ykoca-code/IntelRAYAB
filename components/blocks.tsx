@@ -32,7 +32,7 @@ export function CTASection({
             </h2>
             <p className="mx-auto mt-4 max-w-2xl text-base text-text-muted sm:text-lg">{subtitle}</p>
             <div className="mt-8 flex justify-center">
-              <Button href={localizedPath(locale, 'contact')} variant="primary" className="!px-7 !py-3.5">
+              <Button href={localizedPath(locale, 'assessment')} variant="primary" className="!px-7 !py-3.5">
                 {cta}
                 <ArrowRight size={17} />
               </Button>

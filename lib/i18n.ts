@@ -28,6 +28,8 @@ export const routes = {
   advisors: 'advisors',
   sectors: 'sectors',
   integrations: 'integrations',
+  pricing: 'pricing',
+  assessment: 'assessment',
   references: 'references',
   about: 'about',
   contact: 'contact',

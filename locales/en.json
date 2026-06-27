@@ -5,6 +5,8 @@
     "advisors": "AI Advisors",
     "sectors": "Industries",
     "integrations": "Integrations",
+    "pricing": "Pricing",
+    "assessment": "Assessment",
     "references": "Clients",
     "about": "About",
     "contact": "Contact"
@@ -59,6 +61,14 @@
     "contact": {
       "title": "Contact — IntelRAYAB",
       "description": "Get in touch for your Free AI Readiness Assessment. Teknopark İstanbul."
+    },
+    "pricing": {
+      "title": "Pricing — IntelRAYAB",
+      "description": "Transparent packages and enterprise solutions. Starter, Professional and Corporate Pro plans, plus a tailored Enterprise option."
+    },
+    "assessment": {
+      "title": "AI Readiness Assessment — IntelRAYAB",
+      "description": "In a few questions, assess for free whether your organization is ready for AI transformation and which modules you need."
     },
     "privacy": {
       "title": "Privacy & Data Protection — IntelRAYAB",
@@ -394,7 +404,7 @@
     },
     "list": [
       {
-        "name": "Hasçevher",
+        "name": "Hascevher",
         "domain": "hascevher.com",
         "logo": "hascevher",
         "blurb": "[FILL IN: Short summary of the project/partnership with Hasçevher.]",
@@ -517,6 +527,211 @@
       { "title": "Your Rights", "body": "Under Article 11 of the KVKK, you have the right to access your data and request its correction or deletion." },
       { "title": "Contact", "body": "For your requests, you can write to info@intelrayab.com." }
     ]
+  },
+  "pricing": {
+    "hero": {
+      "label": "Pricing",
+      "title": "Transparent packages for every scale",
+      "subtitle": "Start small and scale as your needs grow. Every package includes our enterprise security and data-protection compliance standards."
+    },
+    "billingNote": "Prices exclude VAT. Two months free with annual billing.",
+    "perMonth": "/ month",
+    "mostPopular": "Most popular",
+    "featuresLabel": "What's included",
+    "plans": [
+      {
+        "id": "starter",
+        "name": "Starter",
+        "price": "900 TL",
+        "tagline": "For organizations taking their first step into AI.",
+        "cta": "Get Started",
+        "featured": false,
+        "features": [
+          "Enterprise AI Assistant (basic RAG, single knowledge source)",
+          "1 functional solution (e.g. customer service or HR)",
+          "Monthly usage and value report",
+          "Basic data-protection usage policy template",
+          "Email support"
+        ]
+      },
+      {
+        "id": "professional",
+        "name": "Professional",
+        "price": "5.000 TL",
+        "tagline": "For growing companies looking to transform multiple departments.",
+        "cta": "Choose Professional",
+        "featured": true,
+        "features": [
+          "Everything in Starter",
+          "Extended RAG (multiple knowledge sources)",
+          "3 functional solutions",
+          "1 AI Management Advisor (e.g. AI CFO or AI CMO)",
+          "Data dashboard and basic forecasting",
+          "2 system integrations",
+          "Priority support"
+        ]
+      },
+      {
+        "id": "corporate",
+        "name": "Corporate Pro",
+        "price": "12.499 TL",
+        "tagline": "For organizations placing AI at the center of operations.",
+        "cta": "Choose Corporate Pro",
+        "featured": false,
+        "features": [
+          "Everything in Professional",
+          "Unlimited functional solutions",
+          "3 AI Management Advisors",
+          "Advanced forecasting and anomaly detection",
+          "5 system integrations",
+          "Tailored training and enablement program",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "tagline": "End-to-end, bespoke deployment for holdings and multi-company groups.",
+      "cta": "Let's Talk",
+      "features": [
+        "All AI Management Advisors",
+        "Unlimited integrations and custom integration development",
+        "Private / on-premise deployment option",
+        "Industry-specific model fine-tuning",
+        "Board-level AI advisory",
+        "SLA and a dedicated solution team"
+      ]
+    },
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      { "q": "Can I switch between packages?", "a": "Yes. As your needs grow, you can upgrade or customize your package at any time." },
+      { "q": "Can I try it first?", "a": "A Free AI Readiness Assessment and a short proof of concept (POC) let you see the value before you invest." },
+      { "q": "What do the prices cover?", "a": "Setup, configuration, continuous improvement and support are included. Third-party model/license costs are separate." }
+    ]
+  },
+  "assessment": {
+    "hero": {
+      "label": "AI Readiness Assessment",
+      "title": "Is your company ready for AI transformation?",
+      "subtitle": "This free, few-minute assessment measures your organization's readiness and shows which AI modules you should prioritize."
+    },
+    "start": "Start the Assessment",
+    "intro": "7 questions · about 2 minutes · no sign-up required",
+    "questionLabel": "Question",
+    "of": "/",
+    "back": "Back",
+    "next": "Next",
+    "seeResult": "See Result",
+    "restart": "Start Over",
+    "questions": [
+      {
+        "id": "data",
+        "question": "What is the state of your corporate data?",
+        "options": [
+          { "label": "Mostly on paper or scattered", "score": 0, "modules": ["data", "rag"] },
+          { "label": "Partly digital, across different systems", "score": 1, "modules": ["data"] },
+          { "label": "Mostly digital and centralized", "score": 2, "modules": [] },
+          { "label": "Fully digital and integrated", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "automation",
+        "question": "How much of your workload is repetitive manual work (invoices, data entry, reporting)?",
+        "options": [
+          { "label": "Very high — most of the team's time", "score": 0, "modules": ["automation"] },
+          { "label": "High", "score": 1, "modules": ["automation"] },
+          { "label": "Moderate", "score": 2, "modules": [] },
+          { "label": "Low — mostly automated", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "knowledge",
+        "question": "How quickly do your employees access internal knowledge?",
+        "options": [
+          { "label": "With difficulty, it takes a long time", "score": 0, "modules": ["rag"] },
+          { "label": "They sometimes struggle", "score": 1, "modules": ["rag"] },
+          { "label": "Generally fast", "score": 2, "modules": [] },
+          { "label": "Instant and reliable", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "reporting",
+        "question": "How do your reporting and decision-making processes work?",
+        "options": [
+          { "label": "Manual, Excel-heavy and delayed", "score": 0, "modules": ["data"] },
+          { "label": "Partly automated", "score": 1, "modules": ["data"] },
+          { "label": "We have live management dashboards", "score": 2, "modules": [] },
+          { "label": "We use advanced analytics and forecasting", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "literacy",
+        "question": "What is your team's level of AI literacy?",
+        "options": [
+          { "label": "Very low — no experience", "score": 0, "modules": ["enablement"] },
+          { "label": "Basic level", "score": 1, "modules": ["enablement"] },
+          { "label": "Good", "score": 2, "modules": [] },
+          { "label": "Advanced", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "security",
+        "question": "Where do you stand on data security and data-protection compliance?",
+        "options": [
+          { "label": "Concerned, with no clear policy", "score": 0, "modules": ["security"] },
+          { "label": "Basic measures in place", "score": 1, "modules": ["security"] },
+          { "label": "Mostly compliant", "score": 2, "modules": [] },
+          { "label": "Fully compliant and regularly audited", "score": 3, "modules": [] }
+        ]
+      },
+      {
+        "id": "strategy",
+        "question": "Do you have a clear roadmap for AI transformation?",
+        "options": [
+          { "label": "No, we don't know where to start", "score": 0, "modules": ["strategy"] },
+          { "label": "We have ideas but no plan", "score": 1, "modules": ["strategy"] },
+          { "label": "We have a draft plan", "score": 2, "modules": ["strategy"] },
+          { "label": "We have a clear roadmap", "score": 3, "modules": [] }
+        ]
+      }
+    ],
+    "result": {
+      "title": "Your Assessment Result",
+      "scoreLabel": "Your readiness score",
+      "recommendedTitle": "Modules we recommend you prioritize",
+      "noModules": "Your core readiness looks strong. As a next step, we recommend exploring our AI Management Advisors.",
+      "ctaTitle": "Let's build your tailored roadmap",
+      "ctaText": "Based on this result, let's prepare a transformation plan specific to your organization in a free consultation with our experts.",
+      "cta": "Book a Free Consultation",
+      "viewPricing": "View Packages",
+      "bands": [
+        {
+          "max": 9,
+          "level": "Early Stage",
+          "summary": "Your potential gains from AI are very high. With a solid data foundation, automation and a clear strategy, you can achieve fast and visible results."
+        },
+        {
+          "max": 16,
+          "level": "Developing",
+          "summary": "You are ready for AI in many areas. By prioritizing the right modules, you can achieve measurable gains quickly and build competitive advantage."
+        },
+        {
+          "max": 21,
+          "level": "Ready to Transform",
+          "summary": "Your organization is largely ready for AI transformation. With advanced solutions and AI Management Advisors, you can get ahead in your sector."
+        }
+      ]
+    },
+    "modules": {
+      "rag": "Enterprise AI Assistant (RAG)",
+      "automation": "Process & Document Automation",
+      "data": "Data, Reporting & Forecasting",
+      "strategy": "AI Strategy & Roadmap",
+      "security": "Secure Enterprise AI & Compliance",
+      "enablement": "AI Training & Enablement",
+      "advisors": "AI Management Advisors"
+    }
   },
   "notFound": {
     "title": "Page not found",

@@ -14,6 +14,7 @@ const navKeys: { key: RouteKey; label: keyof Dictionary['nav'] }[] = [
   { key: 'advisors', label: 'advisors' },
   { key: 'sectors', label: 'sectors' },
   { key: 'integrations', label: 'integrations' },
+  { key: 'pricing', label: 'pricing' },
   { key: 'references', label: 'references' },
   { key: 'about', label: 'about' },
   { key: 'contact', label: 'contact' },
@@ -79,7 +80,7 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
             <LangSwitcher current={locale} />
           </div>
           <Button
-            href={localizedPath(locale, 'contact')}
+            href={localizedPath(locale, 'assessment')}
             variant="primary"
             className="hidden md:inline-flex !px-4 !py-2.5 text-[13px]"
           >
@@ -116,7 +117,7 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
             <div className="mt-3 flex items-center justify-between gap-3">
               <LangSwitcher current={locale} />
               <Button
-                href={localizedPath(locale, 'contact')}
+                href={localizedPath(locale, 'assessment')}
                 variant="primary"
                 className="flex-1 !py-3"
               >

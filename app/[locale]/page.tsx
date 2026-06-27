@@ -42,7 +42,7 @@ export default function HomePage({ params }: { params: { locale: string } }) {
           </Reveal>
           <Reveal delay={0.15}>
             <div className="mt-9 flex flex-col items-center gap-3 sm:flex-row">
-              <Button href={localizedPath(locale, 'contact')} variant="primary" className="!px-7 !py-3.5">
+              <Button href={localizedPath(locale, 'assessment')} variant="primary" className="!px-7 !py-3.5">
                 {h.hero.primaryCta}
                 <ArrowRight size={17} />
               </Button>
