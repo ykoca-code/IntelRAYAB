@@ -34,9 +34,9 @@ const config: Config = {
         'gold-gradient': 'linear-gradient(135deg, var(--gold), #E6C988)',
       },
       boxShadow: {
-        glow: '0 0 40px -10px rgba(37, 99, 235, 0.45)',
-        'glow-cyan': '0 0 50px -12px rgba(6, 182, 212, 0.4)',
-        card: '0 8px 30px -12px rgba(0, 0, 0, 0.5)',
+        glow: '0 0 32px -14px rgba(29, 78, 216, 0.4)',
+        'glow-cyan': '0 0 36px -14px rgba(2, 132, 199, 0.35)',
+        card: '0 10px 34px -16px rgba(0, 0, 0, 0.55)',
       },
       keyframes: {
         'fade-up': {

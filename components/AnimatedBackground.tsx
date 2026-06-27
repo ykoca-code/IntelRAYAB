@@ -12,16 +12,16 @@ export function AnimatedBackground() {
 
       {/* Aurora lekeleri */}
       <div
-        className="absolute -left-32 -top-40 h-[34rem] w-[34rem] rounded-full opacity-30 blur-[120px] animate-aurora"
-        style={{ background: 'radial-gradient(circle, #2563eb, transparent 65%)' }}
+        className="absolute -left-32 -top-40 h-[34rem] w-[34rem] rounded-full opacity-25 blur-[130px] animate-aurora"
+        style={{ background: 'radial-gradient(circle, #1d4ed8, transparent 65%)' }}
       />
       <div
-        className="absolute -right-24 top-10 h-[30rem] w-[30rem] rounded-full opacity-25 blur-[120px] animate-aurora"
-        style={{ background: 'radial-gradient(circle, #06b6d4, transparent 65%)', animationDelay: '-6s' }}
+        className="absolute -right-24 top-10 h-[30rem] w-[30rem] rounded-full opacity-20 blur-[130px] animate-aurora"
+        style={{ background: 'radial-gradient(circle, #0284c7, transparent 65%)', animationDelay: '-6s' }}
       />
       <div
-        className="absolute bottom-[-12rem] left-1/3 h-[26rem] w-[26rem] rounded-full opacity-15 blur-[120px] animate-aurora"
-        style={{ background: 'radial-gradient(circle, #c8a55b, transparent 70%)', animationDelay: '-11s' }}
+        className="absolute bottom-[-12rem] left-1/3 h-[26rem] w-[26rem] rounded-full opacity-10 blur-[130px] animate-aurora"
+        style={{ background: 'radial-gradient(circle, #b9975b, transparent 70%)', animationDelay: '-11s' }}
       />
 
       {/* Alt geçiş gölgesi */}

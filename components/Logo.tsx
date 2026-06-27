@@ -50,7 +50,7 @@ export function Logo({
           <span
             style={{
               fontWeight: 700,
-              backgroundImage: 'linear-gradient(135deg, #2563eb, #06b6d4 60%, #c8a55b)',
+              backgroundImage: 'linear-gradient(135deg, #1d4ed8, #0284c7 60%, #b9975b)',
               WebkitBackgroundClip: 'text',
               backgroundClip: 'text',
               color: 'transparent',
@@ -85,12 +85,12 @@ function LogoMark({
     >
       <defs>
         <linearGradient id={gradId} x1="8" y1="6" x2="40" y2="42" gradientUnits="userSpaceOnUse">
-          <stop stopColor="#2563EB" />
-          <stop offset="1" stopColor="#06B6D4" />
+          <stop stopColor="#1D4ED8" />
+          <stop offset="1" stopColor="#0284C7" />
         </linearGradient>
         <radialGradient id={glowId} cx="0.5" cy="0.5" r="0.5">
-          <stop stopColor="#67E8F9" />
-          <stop offset="1" stopColor="#2563EB" />
+          <stop stopColor="#7DD3FC" />
+          <stop offset="1" stopColor="#1D4ED8" />
         </radialGradient>
       </defs>
 
@@ -124,8 +124,8 @@ function LogoMark({
       </g>
 
       {/* Altın aksan çizgisi */}
-      <line x1="24" y1="24" x2="35.5" y2="17.5" stroke="#C8A55B" strokeWidth="1.6" strokeLinecap="round" />
-      <circle cx="35.5" cy="17.5" r="2.1" fill="#C8A55B" />
+      <line x1="24" y1="24" x2="35.5" y2="17.5" stroke="#B9975B" strokeWidth="1.6" strokeLinecap="round" />
+      <circle cx="35.5" cy="17.5" r="2.1" fill="#B9975B" />
 
       {/* Merkez parlayan düğüm */}
       <circle cx="24" cy="24" r="5.2" fill={`url(#${glowId})`} />

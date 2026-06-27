@@ -12,9 +12,9 @@
   "cta": {
     "assessment": "Ücretsiz AI Hazırlık Değerlendirmesi",
     "assessmentShort": "Ücretsiz Değerlendirme",
-    "exploreServices": "Hizmetleri Keşfet",
-    "exploreAdvisors": "Danışmanları İncele",
-    "contactUs": "Bize Ulaşın",
+    "exploreServices": "Hizmetleri İnceleyin",
+    "exploreAdvisors": "Danışmanları İnceleyin",
+    "contactUs": "İletişime Geçin",
     "allServices": "Tüm Hizmetler",
     "getInTouch": "Görüşme Planlayın"
   },
@@ -24,21 +24,21 @@
     "menu": "Menü",
     "close": "Kapat",
     "andMore": "…ve daha fazlası.",
-    "outcomes": "Çıktılar",
-    "whatTheyDo": "Yaptıkları"
+    "outcomes": "Kazanımlar",
+    "whatTheyDo": "Sorumluluk alanları"
   },
   "meta": {
     "home": {
-      "title": "IntelRAYAB — Aile şirketinin yapay zekâ aklı",
-      "description": "IntelRAYAB, Türkiye'nin önde gelen sanayici aile şirketlerine yapay zekâ ile çalışan dijital danışmanlar (AI CFO, AI CMO) ve uçtan uca kurumsal yapay zekâ çözümleri sunar."
+      "title": "IntelRAYAB — Kurumsal yapay zekâ çözümleri",
+      "description": "IntelRAYAB, Türkiye'nin önde gelen sanayi kuruluşlarına kurumsal yapay zekâ danışmanlığı, yapay zekâ destekli yönetim danışmanları (AI CFO, AI CMO) ve uçtan uca kurumsal yapay zekâ çözümleri sunar."
     },
     "services": {
       "title": "Hizmetler — IntelRAYAB",
-      "description": "Kurumsal AI asistanı, süreç otomasyonu, veri & tahminleme, AI strateji, güvenli kurumsal AI ve KVKK uyumu, AI eğitimi. Ölçülebilir iş değeri yaratan yapay zekâ çözümleri."
+      "description": "Kurumsal yapay zekâ asistanı, süreç otomasyonu, veri ve tahminleme, yapay zekâ stratejisi, güvenli kurumsal yapay zekâ ve KVKK uyumu, yapay zekâ yetkinlik programları. Ölçülebilir iş değeri yaratan çözümler."
     },
     "advisors": {
-      "title": "Yapay Zekâ Danışman Pozisyonları — IntelRAYAB",
-      "description": "Patronun yanındaki dijital C-seviye ekibi: AI CFO, AI CMO, AI COO ve daha fazlası. Sektörünüze ve verinize göre eğitilen, 7/24 çalışan yapay zekâ danışmanlar."
+      "title": "Yapay Zekâ Yönetim Danışmanları — IntelRAYAB",
+      "description": "Üst yönetimin yanında, kurumsal kararları destekleyen yapay zekâ danışmanları: AI CFO, AI CMO, AI COO ve daha fazlası. Sektörünüze ve verinize göre yapılandırılır."
     },
     "sectors": {
       "title": "Sektörler — IntelRAYAB",
@@ -46,15 +46,15 @@
     },
     "integrations": {
       "title": "Entegrasyonlar — IntelRAYAB",
-      "description": "SAP, Logo, Microsoft Dynamics, Power BI, Google, Meta, Salesforce ve onlarca sistemle entegre. Mevcut sistemlerinizle konuşan yapay zekâ."
+      "description": "SAP, Logo, Microsoft Dynamics, Power BI, Google, Meta, Salesforce ve onlarca kurumsal sistemle entegrasyon. Mevcut altyapınızla uyumlu yapay zekâ."
     },
     "references": {
       "title": "Referanslar — IntelRAYAB",
-      "description": "Türkiye'nin önde gelen sanayicileriyle gerçekleştirdiğimiz yapay zekâ projeleri ve iş birlikleri."
+      "description": "Türkiye'nin önde gelen sanayi kuruluşlarıyla yürüttüğümüz yapay zekâ projeleri ve iş birlikleri."
     },
     "about": {
       "title": "Hakkımızda — IntelRAYAB",
-      "description": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.), Teknopark İstanbul'da kurulu bir yapay zekâ danışmanlık şirketidir."
+      "description": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.), Teknopark İstanbul'da kurulu bir kurumsal yapay zekâ danışmanlık şirketidir."
     },
     "contact": {
       "title": "İletişim — IntelRAYAB",
@@ -66,7 +66,7 @@
     }
   },
   "footer": {
-    "tagline": "Aile şirketinin yapay zekâ aklı.",
+    "tagline": "İşletmeniz için ölçülebilir iş değeri yaratan kurumsal yapay zekâ.",
     "legalName": "RAYAB YZ REİS BİLİŞİM A.Ş.",
     "location": "Teknopark İstanbul, Pendik / İstanbul",
     "rights": "Tüm hakları saklıdır.",
@@ -79,191 +79,191 @@
   "home": {
     "hero": {
       "badge": "Kurumsal Yapay Zekâ Danışmanlığı",
-      "title": "Aile şirketinin yapay zekâ aklı.",
-      "subtitle": "Patronun yanında, 7/24 çalışan; verinizi konuşan, sektörünüzü bilen yapay zekâ. Mevcut ekibinizin yerine değil, yanında.",
+      "title": "İşletmeniz için kurumsal yapay zekâ.",
+      "subtitle": "İşletmenizin verisiyle çalışan, sektörünüze göre yapılandırılan ve mevcut ekibinizi güçlendiren kurumsal yapay zekâ çözümleri. Kurumsal güvenlik standartlarıyla, ölçülebilir iş değeri.",
       "primaryCta": "Ücretsiz AI Hazırlık Değerlendirmesi",
-      "secondaryCta": "Hizmetleri Keşfet"
+      "secondaryCta": "Hizmetleri İnceleyin"
     },
     "trustBand": {
-      "title": "Türkiye'nin önde gelen sanayicileriyle çalışıyoruz"
+      "title": "Türkiye'nin önde gelen sanayi kuruluşlarıyla çalışıyoruz"
     },
     "whatWeDo": {
       "label": "Ne yapıyoruz",
-      "title": "Yapay zekâyı ölçülebilir iş değerine çeviriyoruz",
-      "subtitle": "Moda değil, sonuç. Şirketinizin verisine bağlanan, sektörünüze göre eğitilen kurumsal AI sistemleri ve dijital danışmanlar kuruyoruz."
+      "title": "Yapay zekâyı ölçülebilir iş değerine dönüştürüyoruz",
+      "subtitle": "İşletmenizin verisine entegre olan, sektörünüze göre yapılandırılan kurumsal yapay zekâ sistemleri ve yönetim danışmanları kuruyoruz. Yatırımınızın geri dönüşünü odağa alarak."
     },
     "advisorsTeaser": {
-      "label": "Yıldız çözümümüz",
-      "title": "Patronun yanındaki dijital C-seviye ekibi",
-      "subtitle": "Yapay Zekâ Danışman Pozisyonları — AI CFO, AI CMO, AI COO ve daha fazlası. Her biri sektörünüze ve verinize göre eğitilir.",
-      "featuredBadge": "En çok talep edilen",
-      "cta": "Tüm danışman pozisyonlarını incele"
+      "label": "Öne çıkan çözümümüz",
+      "title": "Üst yönetimin yanında, dijital C-seviye yetkinlik",
+      "subtitle": "Yapay Zekâ Yönetim Danışmanları — AI CFO, AI CMO, AI COO ve daha fazlası. Her biri sektörünüze ve kurumsal verinize göre yapılandırılır.",
+      "featuredBadge": "En çok tercih edilen",
+      "cta": "Tüm danışman pozisyonlarını inceleyin"
     },
     "why": {
       "label": "Neden IntelRAYAB",
-      "title": "Patronun diliyle konuşan bir teknoloji ortağı",
+      "title": "Karar alıcıların güvenebileceği bir teknoloji ortağı",
       "items": [
         {
           "title": "Önce iş değeri",
-          "desc": "Teknolojiyle değil, ROI ile başlıyoruz. Her projede ölçülebilir fayda hedefliyoruz."
+          "desc": "Her projeye, ölçülebilir getiri hedefiyle başlıyoruz; teknolojiyi amaç değil araç olarak konumlandırıyoruz."
         },
         {
-          "title": "Güvenlik & KVKK",
-          "desc": "Verileriniz kontrol altında. Güvenli kurulum ve mevzuata tam uyum standardımız."
+          "title": "Güvenlik ve KVKK uyumu",
+          "desc": "Kurumsal verileriniz kontrol altında. Güvenli mimari ve mevzuata tam uyum standardımızdır."
         },
         {
-          "title": "Sektör bilgisi",
-          "desc": "Sanayinin sahasını biliyoruz. Çözümlerimiz sektörünüze göre uyarlanır."
+          "title": "Sektörel uzmanlık",
+          "desc": "Sanayinin işleyişini biliyoruz. Çözümlerimiz sektörünüzün dinamiklerine göre uyarlanır."
         },
         {
-          "title": "Hızlı POC",
-          "desc": "Aylarca süren projeler yerine hızlı kavram kanıtı ile değeri erken görün."
+          "title": "Hızlı kavram kanıtı",
+          "desc": "Uzun soluklu projeler yerine hızlı kavram kanıtı (POC) ile değeri erken aşamada ortaya koyuyoruz."
         }
       ]
     },
     "sectorsStrip": {
       "label": "Sektörler",
       "title": "Türk sanayisinin her dalına özel",
-      "cta": "Tüm sektörleri gör"
+      "cta": "Tüm sektörleri görüntüleyin"
     },
     "integrationsStrip": {
       "label": "Entegrasyonlar",
-      "title": "Mevcut sistemlerinizle konuşur",
-      "subtitle": "ERP'den BI'a, reklam platformlarından e-ticarete kadar kullandığınız araçlara bağlanır.",
-      "cta": "Tüm entegrasyonları gör"
+      "title": "Mevcut kurumsal altyapınızla uyumlu",
+      "subtitle": "ERP'den iş zekâsına, reklam platformlarından e-ticarete kadar kullandığınız sistemlerle sorunsuz entegre olur.",
+      "cta": "Tüm entegrasyonları görüntüleyin"
     },
     "trustIndicators": {
       "items": [
-        { "value": "İlk 1000'e odak", "label": "Türkiye'nin en büyük sanayi kuruluşları" },
-        { "value": "7/24", "label": "Çalışan dijital danışmanlar" },
-        { "value": "Teknopark İstanbul", "label": "Ar-Ge merkezli kuruluş" },
-        { "value": "TR + EN", "label": "Çok dilli kurumsal destek" }
+        { "value": "İlk 1000 sanayi", "label": "Türkiye'nin en büyük sanayi kuruluşlarına odak" },
+        { "value": "7/24 erişim", "label": "Kesintisiz çalışan yapay zekâ danışmanları" },
+        { "value": "Teknopark İstanbul", "label": "Ar-Ge merkezli kurumsal yapı" },
+        { "value": "TR + EN", "label": "Çok dilli kurumsal hizmet" }
       ]
     },
     "closingCta": {
-      "title": "Yapay zekâ yolculuğunuza nereden başlayacağınızı birlikte netleştirelim.",
-      "subtitle": "Ücretsiz Yapay Zekâ Hazırlık Değerlendirmesi ile şirketinizin en yüksek getirili AI fırsatlarını çıkarıyoruz.",
-      "cta": "Ücretsiz Değerlendirme Alın"
+      "title": "Yapay zekâ dönüşümünüze nereden başlayacağınızı birlikte planlayalım.",
+      "subtitle": "Ücretsiz Yapay Zekâ Hazırlık Değerlendirmesi ile kuruluşunuzun en yüksek getirili yapay zekâ fırsatlarını önceliklendiriyoruz.",
+      "cta": "Ücretsiz Değerlendirme Talep Edin"
     }
   },
   "services": {
     "hero": {
       "label": "Hizmetler",
       "title": "Uçtan uca kurumsal yapay zekâ çözümleri",
-      "subtitle": "Stratejiden uygulamaya, güvenlikten eğitime — şirketinizin yapay zekâ dönüşümünün her aşamasında yanınızdayız."
+      "subtitle": "Stratejiden uygulamaya, güvenlikten yetkinliğe — kuruluşunuzun yapay zekâ dönüşümünün her aşamasında yanınızdayız."
     },
     "list": [
       {
         "icon": "BrainCircuit",
         "title": "Kurumsal Yapay Zekâ Asistanı (RAG)",
-        "desc": "Şirketinizin tüm bilgisini — sözleşmeler, prosedürler, ürün dokümanları, e-postalar — tek bir güvenli asistanda toplar. Çalışanlar saniyeler içinde doğru cevaba ulaşır.",
-        "outcomes": ["Bilgi silolarının kalkması", "Yeni çalışan adaptasyonu", "Kalıcı kurumsal hafıza"]
+        "desc": "Kuruluşunuzun bilgi birikimini — sözleşmeler, prosedürler, ürün dokümanları, kurumsal yazışmalar — tek bir güvenli asistanda toplar. Çalışanlar doğru bilgiye saniyeler içinde ulaşır.",
+        "outcomes": ["Bilgi silolarının kaldırılması", "Hızlı çalışan oryantasyonu", "Kalıcı kurumsal hafıza"]
       },
       {
         "icon": "Workflow",
-        "title": "Süreç & Belge Otomasyonu",
-        "desc": "Fatura işleme, sipariş girişi, raporlama, e-posta yanıtı gibi tekrarlayan işleri yapay zekâya devredin. Ekibiniz katma değerli işe odaklansın.",
-        "outcomes": ["İnsan-saat tasarrufu", "Hata azalması", "Operasyonel hız"]
+        "title": "Süreç ve Belge Otomasyonu",
+        "desc": "Fatura işleme, sipariş girişi, raporlama ve yazışma yanıtı gibi tekrarlayan süreçleri yapay zekâya devredin; ekibiniz katma değerli işlere odaklansın.",
+        "outcomes": ["İnsan-saat tasarrufu", "Hata oranında azalma", "Operasyonel hız"]
       },
       {
         "icon": "BarChart3",
-        "title": "Veri, Dashboard & Tahminleme",
-        "desc": "Dağınık verinizi canlı panolara dönüştürür; talep, nakit akışı ve stok tahmini ile anomali tespiti yapar. Kararlarınızı hisle değil veriyle verin.",
-        "outcomes": ["Gerçek zamanlı görünürlük", "Erken uyarı sistemi", "Veriyle karar alma"]
+        "title": "Veri, Raporlama ve Tahminleme",
+        "desc": "Dağınık verilerinizi canlı yönetim panolarına dönüştürür; talep, nakit akışı ve stok tahmini ile anomali tespiti sağlar. Kararlarınızı verilere dayandırın.",
+        "outcomes": ["Gerçek zamanlı görünürlük", "Erken uyarı mekanizması", "Veriye dayalı karar alma"]
       },
       {
         "icon": "Map",
-        "title": "Yapay Zekâ Strateji & Yol Haritası",
-        "desc": "Nereden başlanacağını netleştiriyoruz: use-case önceliklendirme, fizibilite ve POC'tan üretime geçiş planı. Dağınık deneme yerine net bir yol.",
-        "outcomes": ["Net yol haritası", "ROI odaklı öncelik", "Yönetilebilir dönüşüm"]
+        "title": "Yapay Zekâ Stratejisi ve Yol Haritası",
+        "desc": "Dönüşüme nereden başlanacağını netleştiriyoruz: kullanım senaryosu önceliklendirme, fizibilite ve kavram kanıtından üretime geçiş planı. Dağınık denemeler yerine net bir yol haritası.",
+        "outcomes": ["Net yol haritası", "Getiri odaklı önceliklendirme", "Yönetilebilir dönüşüm"]
       },
       {
         "icon": "ShieldCheck",
-        "title": "Güvenli Kurumsal AI & KVKK Uyumu",
-        "desc": "Çalışanların gizli veriyi halka açık araçlara yapıştırmasını önleyen güvenli kurulum, kullanım politikası ve KVKK uyumu.",
+        "title": "Güvenli Kurumsal Yapay Zekâ ve KVKK Uyumu",
+        "desc": "Gizli kurumsal verilerin halka açık araçlara aktarılmasını önleyen güvenli mimari, kullanım politikası ve KVKK uyumu.",
         "outcomes": ["Veri sızıntısı riskinin yönetimi", "Mevzuata uyum", "Kontrollü kullanım"]
       },
       {
         "icon": "GraduationCap",
-        "title": "Yapay Zekâ Eğitimi & Yetkinlik",
-        "desc": "Ekiplerinize prompt yazımından araç kullanımına pratik eğitimler veriyoruz; kuruluşunuzu AI-okuryazar hale getiriyoruz.",
-        "outcomes": ["Hızlı benimseme", "İç kapasite gelişimi", "Sürdürülebilir kullanım"]
+        "title": "Yapay Zekâ Eğitimi ve Yetkinlik Programları",
+        "desc": "Ekiplerinize, prompt tasarımından araç kullanımına kadar uygulamalı eğitimler sunuyoruz; kuruluşunuzun yapay zekâ okuryazarlığını artırıyoruz.",
+        "outcomes": ["Hızlı benimseme", "Kurum içi yetkinlik", "Sürdürülebilir kullanım"]
       }
     ],
     "functional": {
       "label": "Fonksiyonel Çözümler",
-      "title": "Her departmana özel yapay zekâ",
+      "title": "Her departman için yapay zekâ",
       "items": [
-        { "icon": "Headphones", "title": "Müşteri Hizmetleri AI", "desc": "7/24 destek, çağrı merkezi asistanı" },
-        { "icon": "Megaphone", "title": "Satış & Pazarlama AI", "desc": "Lead scoring, kişiselleştirme, reklam optimizasyonu, içerik" },
-        { "icon": "Landmark", "title": "Finans AI", "desc": "Mutabakat, dolandırıcılık ve anomali tespiti" },
-        { "icon": "Users", "title": "İK AI", "desc": "CV tarama, onboarding asistanı" },
-        { "icon": "Scale", "title": "Hukuk & Uyum AI", "desc": "Sözleşme analizi, regülasyon takibi" },
-        { "icon": "Factory", "title": "Üretim & Kalite AI", "desc": "Görüntü işleme ile kalite kontrol, predictive maintenance" }
+        { "icon": "Headphones", "title": "Müşteri Hizmetleri", "desc": "7/24 destek ve çağrı merkezi asistanı" },
+        { "icon": "Megaphone", "title": "Satış ve Pazarlama", "desc": "Lead skorlama, kişiselleştirme, reklam optimizasyonu, içerik" },
+        { "icon": "Landmark", "title": "Finans", "desc": "Mutabakat, dolandırıcılık ve anomali tespiti" },
+        { "icon": "Users", "title": "İnsan Kaynakları", "desc": "Özgeçmiş tarama, oryantasyon asistanı" },
+        { "icon": "Scale", "title": "Hukuk ve Uyum", "desc": "Sözleşme analizi, regülasyon takibi" },
+        { "icon": "Factory", "title": "Üretim ve Kalite", "desc": "Görüntü işleme ile kalite kontrol, kestirimci bakım" }
       ]
     }
   },
   "advisors": {
     "hero": {
-      "label": "Yapay Zekâ Danışman Pozisyonları",
-      "title": "Patronun yanındaki dijital C-seviye ekibi",
-      "subtitle": "Her danışman sektörünüze ve verinize göre eğitilir; mevcut ekibinizin yerine değil yanında, 7/24 çalışır."
+      "label": "Yapay Zekâ Yönetim Danışmanları",
+      "title": "Üst yönetimin yanında, dijital C-seviye yetkinlik",
+      "subtitle": "Her danışman, kuruluşunuzun sektörüne ve verisine göre yapılandırılır; mevcut ekibinizin yerini almaz, kararlarını güçlendirir ve kesintisiz çalışır."
     },
-    "mostWanted": "En çok talep edilen",
+    "mostWanted": "En çok tercih edilen",
     "list": [
       {
         "icon": "Calculator",
         "title": "Yapay Zekâ CFO (AI CFO)",
-        "desc": "Finansal görünürlüğü ve disiplini patronun masasına taşır.",
+        "desc": "Finansal görünürlüğü ve disiplini üst yönetimin gündemine taşır.",
         "featured": true,
-        "tasks": ["Nakit akışı ve bütçe tahmini", "Bütçe–gerçekleşen sapma analizi", "Senaryo / what-if modelleme", "Otomatik finansal raporlama", "Mutabakat ve maliyet optimizasyonu"]
+        "tasks": ["Nakit akışı ve bütçe tahmini", "Bütçe–gerçekleşen sapma analizi", "Senaryo ve duyarlılık (what-if) modelleme", "Otomatik finansal raporlama", "Mutabakat ve maliyet optimizasyonu"]
       },
       {
         "icon": "Megaphone",
         "title": "Yapay Zekâ CMO (AI CMO)",
-        "desc": "Pazarlama bütçesini ölçülebilir getiriye dönüştürür.",
+        "desc": "Pazarlama yatırımını ölçülebilir getiriye dönüştürür.",
         "featured": false,
-        "tasks": ["Reklam bütçesi optimizasyonu (Google/Meta)", "Kampanya analizi", "İçerik üretimi", "Müşteri segmentasyonu", "Pazar & rakip takibi"]
+        "tasks": ["Reklam bütçesi optimizasyonu (Google/Meta)", "Kampanya performans analizi", "İçerik üretimi", "Müşteri segmentasyonu", "Pazar ve rekabet takibi"]
       },
       {
         "icon": "Settings2",
         "title": "Yapay Zekâ COO (AI COO)",
-        "desc": "Operasyonu uçtan uca optimize eder.",
+        "desc": "Operasyonel süreçleri uçtan uca optimize eder.",
         "featured": false,
-        "tasks": ["Operasyonel verimlilik", "Süreç darboğazı tespiti", "Kapasite planlama", "Tedarik & üretim optimizasyonu"]
+        "tasks": ["Operasyonel verimlilik analizi", "Süreç darboğazı tespiti", "Kapasite planlama", "Tedarik ve üretim optimizasyonu"]
       },
       {
         "icon": "Target",
         "title": "Yapay Zekâ Strateji Danışmanı (AI CSO)",
-        "desc": "Büyüme kararlarını veriyle besler.",
+        "desc": "Büyüme kararlarını veriyle destekler.",
         "featured": false,
-        "tasks": ["Pazar analizi", "Yatırım senaryoları", "Rakip istihbaratı", "Büyüme fırsatları"]
+        "tasks": ["Pazar analizi", "Yatırım senaryoları", "Rekabet istihbaratı", "Büyüme fırsatlarının değerlendirilmesi"]
       },
       {
         "icon": "Users",
         "title": "Yapay Zekâ İK Danışmanı (AI CHRO)",
-        "desc": "İnsan kaynağını veriyle yönetir.",
+        "desc": "İnsan kaynağını veriye dayalı yönetir.",
         "featured": false,
-        "tasks": ["İşe alım", "Çalışan deneyimi", "Performans analitiği"]
+        "tasks": ["İşe alım süreçleri", "Çalışan deneyimi", "Performans analitiği"]
       },
       {
         "icon": "ShieldAlert",
-        "title": "Yapay Zekâ Risk & Uyum Danışmanı",
-        "desc": "Mevzuat ve riski sürekli izler.",
+        "title": "Yapay Zekâ Risk ve Uyum Danışmanı",
+        "desc": "Mevzuat ve riski kesintisiz izler.",
         "featured": false,
-        "tasks": ["KVKK, SPK, BDDK uyumu", "Mevzuat değişiklik takibi", "Sözleşme & risk analizi"]
+        "tasks": ["KVKK, SPK, BDDK uyumu", "Mevzuat değişiklik takibi", "Sözleşme ve risk analizi"]
       },
       {
         "icon": "LineChart",
         "title": "Yapay Zekâ Veri Analisti",
-        "desc": "Her soruya hızlı, veriye dayalı cevap verir.",
+        "desc": "Yönetimin sorularını hızlı ve veriye dayalı yanıtlar.",
         "featured": false,
-        "tasks": ["Ad-hoc analizler", "Panolar", "Otomatik raporlar"]
+        "tasks": ["Anlık (ad-hoc) analizler", "Yönetim panoları", "Otomatik raporlama"]
       },
       {
         "icon": "Briefcase",
-        "title": "Yönetim Kurulu AI Danışmanı",
-        "desc": "Yönetim kuruluna stratejik AI vizyonu sağlar.",
+        "title": "Yönetim Kurulu Yapay Zekâ Danışmanı",
+        "desc": "Yönetim kuruluna stratejik yapay zekâ vizyonu sağlar.",
         "featured": false,
         "tasks": ["Stratejik yapay zekâ danışmanlığı", "Dönüşüm yol haritası", "Yönetişim önerileri"]
       }
@@ -272,30 +272,30 @@
   "sectors": {
     "hero": {
       "label": "Sektörler",
-      "title": "Türk sanayisinin her dalını biliyoruz",
+      "title": "Türk sanayisinin her dalına hâkimiz",
       "subtitle": "Sektörünüzün dinamiklerine ve regülasyonuna göre uyarlanmış yapay zekâ kullanım senaryoları."
     },
     "list": [
-      { "icon": "Car", "name": "Otomotiv & Yan Sanayi", "useCase": "Talep & stok tahmini, tedarik optimizasyonu" },
-      { "icon": "Shirt", "name": "Tekstil & Hazır Giyim", "useCase": "Koleksiyon/üretim planlama, görsel kalite kontrol" },
-      { "icon": "UtensilsCrossed", "name": "Gıda & İçecek", "useCase": "Tahmine dayalı üretim, son kullanma/lot takibi" },
-      { "icon": "FlaskConical", "name": "Kimya & İlaç", "useCase": "Mevzuat & belge otomasyonu, kalite kontrol" },
-      { "icon": "Cog", "name": "Metal & Makine", "useCase": "Predictive maintenance, OEE iyileştirme" },
-      { "icon": "Refrigerator", "name": "Dayanıklı Tüketim & Beyaz Eşya", "useCase": "Talep tahmini, satış sonrası servis optimizasyonu" },
-      { "icon": "Building2", "name": "İnşaat & Yapı Malzemeleri", "useCase": "Proje maliyetlendirme, tedarik planlama" },
-      { "icon": "Armchair", "name": "Mobilya & Orman Ürünleri", "useCase": "Üretim planlama, fire azaltma" },
+      { "icon": "Car", "name": "Otomotiv ve Yan Sanayi", "useCase": "Talep ve stok tahmini, tedarik optimizasyonu" },
+      { "icon": "Shirt", "name": "Tekstil ve Hazır Giyim", "useCase": "Koleksiyon ve üretim planlama, görsel kalite kontrol" },
+      { "icon": "UtensilsCrossed", "name": "Gıda ve İçecek", "useCase": "Tahmine dayalı üretim, son kullanma ve lot takibi" },
+      { "icon": "FlaskConical", "name": "Kimya ve İlaç", "useCase": "Mevzuat ve belge otomasyonu, kalite kontrol" },
+      { "icon": "Cog", "name": "Metal ve Makine", "useCase": "Kestirimci bakım, OEE iyileştirme" },
+      { "icon": "Refrigerator", "name": "Dayanıklı Tüketim ve Beyaz Eşya", "useCase": "Talep tahmini, satış sonrası servis optimizasyonu" },
+      { "icon": "Building2", "name": "İnşaat ve Yapı Malzemeleri", "useCase": "Proje maliyetlendirme, tedarik planlama" },
+      { "icon": "Armchair", "name": "Mobilya ve Orman Ürünleri", "useCase": "Üretim planlama, fire azaltma" },
       { "icon": "Zap", "name": "Enerji", "useCase": "Tüketim tahmini, varlık bakım optimizasyonu" },
-      { "icon": "Truck", "name": "Lojistik & Taşımacılık", "useCase": "Rota & filo optimizasyonu" },
-      { "icon": "ShoppingCart", "name": "Perakende & E-ticaret", "useCase": "Kişiselleştirme, talep & fiyat optimizasyonu" },
-      { "icon": "Wheat", "name": "Tarım & Hayvancılık", "useCase": "Verim tahmini, kaynak optimizasyonu" },
-      { "icon": "Network", "name": "Holding & Çok-Şirketli Yapılar", "useCase": "Konsolide raporlama, merkezi AI yönetişimi" }
+      { "icon": "Truck", "name": "Lojistik ve Taşımacılık", "useCase": "Rota ve filo optimizasyonu" },
+      { "icon": "ShoppingCart", "name": "Perakende ve E-ticaret", "useCase": "Kişiselleştirme, talep ve fiyat optimizasyonu" },
+      { "icon": "Wheat", "name": "Tarım ve Hayvancılık", "useCase": "Verim tahmini, kaynak optimizasyonu" },
+      { "icon": "Network", "name": "Holding ve Çok Şirketli Yapılar", "useCase": "Konsolide raporlama, merkezi yapay zekâ yönetişimi" }
     ]
   },
   "integrations": {
     "hero": {
       "label": "Entegrasyonlar",
-      "title": "Mevcut sistemlerinizle konuşur",
-      "subtitle": "Kullandığınız ERP, BI, bulut, reklam ve e-ticaret sistemlerine bağlanır; verinizi tek bir akıl altında birleştirir."
+      "title": "Mevcut kurumsal altyapınızla uyumlu",
+      "subtitle": "Kullandığınız ERP, iş zekâsı, bulut, reklam ve e-ticaret sistemlerine entegre olur; verilerinizi tek bir kurumsal zekâ altında birleştirir."
     },
     "categories": [
       {
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "name": "BI & Analitik",
+        "name": "İş Zekâsı ve Analitik",
         "items": [
           { "name": "Tableau", "slug": "tableau" },
           { "name": "Power BI", "slug": "powerbi" },
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "name": "Bulut & Veri",
+        "name": "Bulut ve Veri",
         "items": [
           { "name": "Google Workspace", "slug": "googleworkspace" },
           { "name": "Google BigQuery", "slug": "googlebigquery" },
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "name": "Reklam & Pazarlama",
+        "name": "Reklam ve Pazarlama",
         "items": [
           { "name": "Google Ads", "slug": "googleads" },
           { "name": "Google Analytics", "slug": "googleanalytics" },
@@ -369,7 +369,7 @@
         ]
       },
       {
-        "name": "CRM & Destek",
+        "name": "CRM ve Destek",
         "items": [
           { "name": "Salesforce", "slug": "salesforce" },
           { "name": "HubSpot", "slug": "hubspot" },
@@ -377,7 +377,7 @@
         ]
       },
       {
-        "name": "İletişim & Otomasyon",
+        "name": "İletişim ve Otomasyon",
         "items": [
           { "name": "Slack", "slug": "slack" },
           { "name": "Microsoft Teams", "slug": "" },
@@ -389,18 +389,18 @@
       }
     ],
     "closing": {
-      "text": "…ve daha fazlası. İhtiyacınıza özel entegrasyon geliştiriyoruz.",
-      "cta": "Entegrasyon ihtiyacınızı konuşalım"
+      "text": "…ve daha fazlası. İhtiyaçlarınıza özel entegrasyonlar geliştiriyoruz.",
+      "cta": "Entegrasyon ihtiyaçlarınızı görüşelim"
     }
   },
   "references": {
     "hero": {
       "label": "Referanslar",
-      "title": "Türkiye'nin önde gelen sanayicileriyle",
-      "subtitle": "Sanayinin bel kemiği aile şirketleriyle yürüttüğümüz yapay zekâ projeleri."
+      "title": "Türkiye'nin önde gelen sanayi kuruluşlarıyla",
+      "subtitle": "Sanayinin temelini oluşturan kuruluşlarla yürüttüğümüz yapay zekâ projeleri."
     },
     "caseLabels": {
-      "problem": "Sorun",
+      "problem": "İhtiyaç",
       "solution": "Çözüm",
       "result": "Sonuç"
     },
@@ -409,9 +409,9 @@
         "name": "Hasçevher",
         "domain": "hascevher.com",
         "logo": "hascevher",
-        "blurb": "[DOLDUR: Hasçevher ile gerçekleştirilen proje/işbirliğinin kısa özeti.]",
+        "blurb": "[DOLDUR: Hasçevher ile yürütülen proje/iş birliğinin kısa özeti.]",
         "case": {
-          "problem": "[DOLDUR: Çözülen iş problemi]",
+          "problem": "[DOLDUR: Ele alınan iş ihtiyacı]",
           "solution": "[DOLDUR: Uygulanan yapay zekâ çözümü]",
           "result": "[DOLDUR: Elde edilen ölçülebilir sonuç]"
         }
@@ -420,9 +420,9 @@
         "name": "EasyCep",
         "domain": "easycep.com",
         "logo": "easycep",
-        "blurb": "[DOLDUR: EasyCep ile gerçekleştirilen proje/işbirliğinin kısa özeti.]",
+        "blurb": "[DOLDUR: EasyCep ile yürütülen proje/iş birliğinin kısa özeti.]",
         "case": {
-          "problem": "[DOLDUR: Çözülen iş problemi]",
+          "problem": "[DOLDUR: Ele alınan iş ihtiyacı]",
           "solution": "[DOLDUR: Uygulanan yapay zekâ çözümü]",
           "result": "[DOLDUR: Elde edilen ölçülebilir sonuç]"
         }
@@ -431,9 +431,9 @@
         "name": "Cabir Holding",
         "domain": "cabirholding.com",
         "logo": "cabirholding",
-        "blurb": "[DOLDUR: Cabir Holding ile gerçekleştirilen proje/işbirliğinin kısa özeti.]",
+        "blurb": "[DOLDUR: Cabir Holding ile yürütülen proje/iş birliğinin kısa özeti.]",
         "case": {
-          "problem": "[DOLDUR: Çözülen iş problemi]",
+          "problem": "[DOLDUR: Ele alınan iş ihtiyacı]",
           "solution": "[DOLDUR: Uygulanan yapay zekâ çözümü]",
           "result": "[DOLDUR: Elde edilen ölçülebilir sonuç]"
         }
@@ -443,41 +443,41 @@
   "about": {
     "hero": {
       "label": "Hakkımızda",
-      "title": "Türk sanayisinin yapay zekâ ortağı",
-      "subtitle": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.), Teknopark İstanbul'da kurulu bir yapay zekâ danışmanlık şirketidir."
+      "title": "Türk sanayisinin kurumsal yapay zekâ ortağı",
+      "subtitle": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.), Teknopark İstanbul'da kurulu bir kurumsal yapay zekâ danışmanlık şirketidir."
     },
     "story": {
-      "title": "Hikayemiz",
-      "body": "Türk sanayisinin bel kemiği olan aile şirketlerinin yapay zekâyı bir moda olarak değil, ölçülebilir iş değeri yaratan bir araç olarak kullanması için varız. Şirketinizin verisine bağlanan, sektörünüze göre eğitilen ve mevcut ekibinizin yerine değil yanında çalışan dijital danışmanlar ve kurumsal AI sistemleri kuruyoruz."
+      "title": "Kuruluş Hikayemiz",
+      "body": "Türk sanayisinin temelini oluşturan kuruluşların yapay zekâyı bir trend olarak değil, ölçülebilir iş değeri yaratan stratejik bir araç olarak kullanması için kurulduk. İşletmenizin verisine entegre olan, sektörünüze göre yapılandırılan ve mevcut ekibinizi güçlendiren kurumsal yapay zekâ sistemleri ve yönetim danışmanları geliştiriyoruz."
     },
     "mission": {
       "title": "Misyonumuz",
-      "body": "Patronun masasına oturan, anlaşılır ve güvenilir yapay zekâ. Karmaşık teknolojiyi, somut iş kararlarına dönüştürüyoruz."
+      "body": "Üst yönetimin karar süreçlerine entegre olan, anlaşılır ve güvenilir kurumsal yapay zekâ. Karmaşık teknolojiyi somut iş kararlarına dönüştürüyoruz."
     },
     "approach": {
       "title": "Yaklaşımımız",
       "items": [
         { "title": "Önce iş değeri", "desc": "Her projeye ölçülebilir getiri hedefiyle başlıyoruz." },
-        { "title": "Güvenlik & KVKK", "desc": "Veri güvenliği ve mevzuat uyumu pazarlık konusu değil." },
-        { "title": "Sektör bilgisi", "desc": "Sanayinin sahasını ve diliyle konuşuyoruz." },
-        { "title": "Hızlı POC", "desc": "Erken kanıt, hızlı öğrenme, kontrollü ölçekleme." }
+        { "title": "Güvenlik ve uyum", "desc": "Veri güvenliği ve KVKK uyumu, pazarlık konusu değildir." },
+        { "title": "Sektörel uzmanlık", "desc": "Sanayinin işleyişini ve diliyle konuşuyoruz." },
+        { "title": "Hızlı kavram kanıtı", "desc": "Erken kanıt, hızlı öğrenme ve kontrollü ölçekleme." }
       ]
     },
     "why": {
-      "title": "Neden biz?",
+      "title": "Neden IntelRAYAB?",
       "items": [
-        "Sahada pratik uygulama tecrübesi: reklam denetimi, BI/dashboard, süreç otomasyonu.",
-        "Türkiye regülasyon bilgisi: KVKK, sektörel mevzuat ve uyum.",
-        "Patron diliyle konuşma: teknik jargon değil, net iş faydası."
+        "Sahada kanıtlanmış uygulama tecrübesi: reklam denetimi, iş zekâsı ve süreç otomasyonu.",
+        "Türkiye regülasyonuna hâkimiyet: KVKK, sektörel mevzuat ve uyum.",
+        "Karar alıcıların diliyle iletişim: teknik jargon değil, net ve ölçülebilir iş faydası."
       ]
     },
     "values": {
       "title": "Değerlerimiz",
       "items": [
-        { "title": "Şeffaflık", "desc": "Abartısız vaat, açık iletişim." },
-        { "title": "Ölçülebilirlik", "desc": "Sonucu rakamla konuşuruz." },
-        { "title": "Güven", "desc": "Verinize sahip çıkarız." },
-        { "title": "Süreklilik", "desc": "Kurulumla bırakmaz, yanınızda kalırız." }
+        { "title": "Şeffaflık", "desc": "Abartısız taahhüt, açık iletişim." },
+        { "title": "Ölçülebilirlik", "desc": "Sonuçları somut göstergelerle ortaya koyarız." },
+        { "title": "Güven", "desc": "Kurumsal verilerinizi titizlikle koruruz." },
+        { "title": "Süreklilik", "desc": "Kurulumla sınırlı kalmaz, uzun vadede yanınızda oluruz." }
       ]
     },
     "location": {
@@ -488,8 +488,8 @@
   "contact": {
     "hero": {
       "label": "İletişim",
-      "title": "Yapay zekâ yolculuğunuzu birlikte başlatalım",
-      "subtitle": "Ücretsiz Yapay Zekâ Hazırlık Değerlendirmesi randevusu alın; şirketinize en uygun fırsatları çıkaralım."
+      "title": "Yapay zekâ dönüşümünüzü birlikte başlatalım",
+      "subtitle": "Ücretsiz Yapay Zekâ Hazırlık Değerlendirmesi için randevu oluşturun; kuruluşunuza en uygun fırsatları önceliklendirelim."
     },
     "form": {
       "name": "Ad Soyad",
@@ -498,12 +498,12 @@
       "email": "E-posta",
       "phone": "Telefon",
       "message": "Mesajınız",
-      "messagePlaceholder": "Şirketiniz ve önceliklerinizden kısaca bahsedin…",
+      "messagePlaceholder": "Kuruluşunuz ve önceliklerinizden kısaca bahsedin…",
       "kvkk": "Kişisel verilerimin KVKK Aydınlatma Metni kapsamında işlenmesini kabul ediyorum.",
       "kvkkLink": "Aydınlatma Metni",
       "submit": "Gönder",
       "submitting": "Gönderiliyor…",
-      "success": "Teşekkürler! Mesajınız bize ulaştı, en kısa sürede dönüş yapacağız.",
+      "success": "Teşekkür ederiz. Talebiniz tarafımıza ulaştı; en kısa sürede sizinle iletişime geçeceğiz.",
       "error": "Bir hata oluştu. Lütfen tekrar deneyin veya doğrudan e-posta gönderin.",
       "required": "Bu alan zorunludur."
     },
@@ -521,7 +521,7 @@
   "privacy": {
     "title": "KVKK & Gizlilik Politikası",
     "updated": "Son güncelleme",
-    "intro": "Bu sayfa, RAYAB YZ REİS BİLİŞİM A.Ş. (\"IntelRAYAB\") tarafından kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında nasıl işlendiğine dair bir iskelettir. Nihai metin için hukuk danışmanınızla birlikte güncelleyin.",
+    "intro": "Bu sayfa, RAYAB YZ REİS BİLİŞİM A.Ş. (\"IntelRAYAB\") tarafından kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında nasıl işlendiğine dair bir iskelettir. Nihai metni hukuk danışmanınızla birlikte güncelleyin.",
     "sections": [
       { "title": "Veri Sorumlusu", "body": "RAYAB YZ REİS BİLİŞİM A.Ş., Teknopark İstanbul, Pendik / İstanbul." },
       { "title": "İşlenen Veriler", "body": "İletişim formu aracılığıyla ilettiğiniz ad-soyad, şirket, pozisyon, e-posta, telefon ve mesaj içeriği." },
@@ -532,7 +532,7 @@
   },
   "notFound": {
     "title": "Sayfa bulunamadı",
-    "subtitle": "Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",
-    "cta": "Anasayfaya dön"
+    "subtitle": "Aradığınız sayfa taşınmış veya kaldırılmış olabilir.",
+    "cta": "Anasayfaya dönün"
   }
 }
