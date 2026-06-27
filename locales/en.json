@@ -1,0 +1,526 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "advisors": "AI Advisors",
+    "sectors": "Industries",
+    "integrations": "Integrations",
+    "references": "Clients",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "assessment": "Free AI Readiness Assessment",
+    "assessmentShort": "Free Assessment",
+    "exploreServices": "Explore Services",
+    "exploreAdvisors": "Meet the Advisors",
+    "contactUs": "Contact Us",
+    "allServices": "All Services",
+    "getInTouch": "Book a Call"
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "switchLang": "Switch language",
+    "menu": "Menu",
+    "close": "Close",
+    "andMore": "…and many more.",
+    "outcomes": "Outcomes",
+    "whatTheyDo": "What they do"
+  },
+  "meta": {
+    "home": {
+      "title": "IntelRAYAB — The AI mind for the family enterprise",
+      "description": "IntelRAYAB delivers AI-powered digital advisors (AI CFO, AI CMO) and end-to-end enterprise AI solutions to Turkey's leading industrial family businesses."
+    },
+    "services": {
+      "title": "Services — IntelRAYAB",
+      "description": "Enterprise AI assistant, process automation, data & forecasting, AI strategy, secure enterprise AI & data compliance, and AI enablement that creates measurable business value."
+    },
+    "advisors": {
+      "title": "AI Advisory Roles — IntelRAYAB",
+      "description": "Your digital C-suite, right beside the owner: AI CFO, AI CMO, AI COO and more. AI advisors trained on your industry and your data, working 24/7."
+    },
+    "sectors": {
+      "title": "Industries — IntelRAYAB",
+      "description": "Automotive, textiles, food, chemicals, metals, energy, logistics and more. AI use cases tailored to every branch of Turkish industry."
+    },
+    "integrations": {
+      "title": "Integrations — IntelRAYAB",
+      "description": "Integrated with SAP, Logo, Microsoft Dynamics, Power BI, Google, Meta, Salesforce and dozens more. AI that speaks to your existing systems."
+    },
+    "references": {
+      "title": "Clients — IntelRAYAB",
+      "description": "AI projects and partnerships delivered with Turkey's leading industrialists."
+    },
+    "about": {
+      "title": "About — IntelRAYAB",
+      "description": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.) is an AI consultancy based at Teknopark İstanbul."
+    },
+    "contact": {
+      "title": "Contact — IntelRAYAB",
+      "description": "Get in touch for your Free AI Readiness Assessment. Teknopark İstanbul."
+    },
+    "privacy": {
+      "title": "Privacy & Data Protection — IntelRAYAB",
+      "description": "Personal data protection and privacy policy."
+    }
+  },
+  "footer": {
+    "tagline": "The AI mind for the family enterprise.",
+    "legalName": "RAYAB YZ REİS BİLİŞİM A.Ş.",
+    "location": "Teknopark İstanbul, Pendik / İstanbul",
+    "rights": "All rights reserved.",
+    "sitemap": "Site Map",
+    "legalTitle": "Legal",
+    "privacy": "Privacy & Data Protection",
+    "contactTitle": "Contact",
+    "company": "Company"
+  },
+  "home": {
+    "hero": {
+      "badge": "Enterprise AI Consulting",
+      "title": "The AI mind for the family enterprise.",
+      "subtitle": "Working 24/7 beside the owner — AI that speaks your data and knows your industry. Not a replacement for your team, but a partner to it.",
+      "primaryCta": "Free AI Readiness Assessment",
+      "secondaryCta": "Explore Services"
+    },
+    "trustBand": {
+      "title": "We work with Turkey's leading industrialists"
+    },
+    "whatWeDo": {
+      "label": "What we do",
+      "title": "We turn AI into measurable business value",
+      "subtitle": "Results, not hype. We build enterprise AI systems and digital advisors that connect to your data and are trained for your industry."
+    },
+    "advisorsTeaser": {
+      "label": "Our flagship solution",
+      "title": "A digital C-suite, right beside the owner",
+      "subtitle": "AI Advisory Roles — AI CFO, AI CMO, AI COO and more. Each one trained on your industry and your data.",
+      "featuredBadge": "Most requested",
+      "cta": "Explore all advisory roles"
+    },
+    "why": {
+      "label": "Why IntelRAYAB",
+      "title": "A technology partner that speaks the owner's language",
+      "items": [
+        { "title": "Business value first", "desc": "We start with ROI, not technology. Every project targets a measurable benefit." },
+        { "title": "Security & compliance", "desc": "Your data stays under control. Secure setup and full regulatory compliance are our standard." },
+        { "title": "Industry expertise", "desc": "We know the factory floor. Our solutions are tailored to your sector." },
+        { "title": "Rapid POC", "desc": "See value early with fast proofs of concept instead of months-long projects." }
+      ]
+    },
+    "sectorsStrip": {
+      "label": "Industries",
+      "title": "Tailored to every branch of Turkish industry",
+      "cta": "See all industries"
+    },
+    "integrationsStrip": {
+      "label": "Integrations",
+      "title": "It speaks to your existing systems",
+      "subtitle": "From ERP to BI, from ad platforms to e-commerce — it connects to the tools you already use.",
+      "cta": "See all integrations"
+    },
+    "trustIndicators": {
+      "items": [
+        { "value": "Top 1000 focus", "label": "Turkey's largest industrial enterprises" },
+        { "value": "24/7", "label": "Always-on digital advisors" },
+        { "value": "Teknopark İstanbul", "label": "R&D-driven company" },
+        { "value": "TR + EN", "label": "Multilingual enterprise support" }
+      ]
+    },
+    "closingCta": {
+      "title": "Let's clarify where to begin your AI journey — together.",
+      "subtitle": "With a Free AI Readiness Assessment, we surface the highest-return AI opportunities for your company.",
+      "cta": "Get Your Free Assessment"
+    }
+  },
+  "services": {
+    "hero": {
+      "label": "Services",
+      "title": "End-to-end enterprise AI solutions",
+      "subtitle": "From strategy to deployment, from security to enablement — we're with you at every stage of your AI transformation."
+    },
+    "list": [
+      {
+        "icon": "BrainCircuit",
+        "title": "Enterprise AI Assistant (RAG)",
+        "desc": "Brings together all of your company's knowledge — contracts, procedures, product docs, emails — into a single secure assistant. Employees reach the right answer in seconds.",
+        "outcomes": ["Breaking down knowledge silos", "Faster onboarding", "Lasting institutional memory"]
+      },
+      {
+        "icon": "Workflow",
+        "title": "Process & Document Automation",
+        "desc": "Hand off repetitive tasks like invoice processing, order entry, reporting and email replies to AI. Free your team for higher-value work.",
+        "outcomes": ["Saved person-hours", "Fewer errors", "Operational speed"]
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Data, Dashboards & Forecasting",
+        "desc": "Turns scattered data into live dashboards; forecasts demand, cash flow and inventory while detecting anomalies. Decide with data, not gut feel.",
+        "outcomes": ["Real-time visibility", "Early-warning signals", "Data-driven decisions"]
+      },
+      {
+        "icon": "Map",
+        "title": "AI Strategy & Roadmap",
+        "desc": "We make it clear where to start: use-case prioritization, feasibility, and a plan to move from POC to production. A clear path instead of scattered experiments.",
+        "outcomes": ["A clear roadmap", "ROI-driven priorities", "Manageable transformation"]
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure Enterprise AI & Compliance",
+        "desc": "A secure setup, usage policy and data-protection compliance that stops employees from pasting confidential data into public tools.",
+        "outcomes": ["Managed data-leak risk", "Regulatory compliance", "Controlled usage"]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "AI Training & Enablement",
+        "desc": "Practical training for your teams, from prompt writing to tool usage; we make your organization AI-literate.",
+        "outcomes": ["Faster adoption", "In-house capability", "Sustainable usage"]
+      }
+    ],
+    "functional": {
+      "label": "Functional Solutions",
+      "title": "AI for every department",
+      "items": [
+        { "icon": "Headphones", "title": "Customer Service AI", "desc": "24/7 support, call-center assistant" },
+        { "icon": "Megaphone", "title": "Sales & Marketing AI", "desc": "Lead scoring, personalization, ad optimization, content" },
+        { "icon": "Landmark", "title": "Finance AI", "desc": "Reconciliation, fraud and anomaly detection" },
+        { "icon": "Users", "title": "HR AI", "desc": "CV screening, onboarding assistant" },
+        { "icon": "Scale", "title": "Legal & Compliance AI", "desc": "Contract analysis, regulatory monitoring" },
+        { "icon": "Factory", "title": "Manufacturing & Quality AI", "desc": "Vision-based quality control, predictive maintenance" }
+      ]
+    }
+  },
+  "advisors": {
+    "hero": {
+      "label": "AI Advisory Roles",
+      "title": "A digital C-suite, right beside the owner",
+      "subtitle": "Each advisor is trained on your industry and your data; working 24/7 — not a replacement for your team, but a partner to it."
+    },
+    "mostWanted": "Most requested",
+    "list": [
+      {
+        "icon": "Calculator",
+        "title": "AI CFO",
+        "desc": "Brings financial visibility and discipline to the owner's desk.",
+        "featured": true,
+        "tasks": ["Cash flow and budget forecasting", "Budget vs. actual variance analysis", "Scenario / what-if modeling", "Automated financial reporting", "Reconciliation and cost optimization"]
+      },
+      {
+        "icon": "Megaphone",
+        "title": "AI CMO",
+        "desc": "Turns marketing spend into measurable return.",
+        "featured": false,
+        "tasks": ["Ad budget optimization (Google/Meta)", "Campaign analysis", "Content creation", "Customer segmentation", "Market & competitor monitoring"]
+      },
+      {
+        "icon": "Settings2",
+        "title": "AI COO",
+        "desc": "Optimizes operations end to end.",
+        "featured": false,
+        "tasks": ["Operational efficiency", "Process bottleneck detection", "Capacity planning", "Supply & production optimization"]
+      },
+      {
+        "icon": "Target",
+        "title": "AI Strategy Advisor (CSO)",
+        "desc": "Feeds growth decisions with data.",
+        "featured": false,
+        "tasks": ["Market analysis", "Investment scenarios", "Competitive intelligence", "Growth opportunities"]
+      },
+      {
+        "icon": "Users",
+        "title": "AI HR Advisor (CHRO)",
+        "desc": "Manages human capital with data.",
+        "featured": false,
+        "tasks": ["Recruitment", "Employee experience", "Performance analytics"]
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "AI Risk & Compliance Advisor",
+        "desc": "Continuously monitors regulation and risk.",
+        "featured": false,
+        "tasks": ["KVKK, SPK, BDDK compliance", "Regulatory change tracking", "Contract & risk analysis"]
+      },
+      {
+        "icon": "LineChart",
+        "title": "AI Data Analyst",
+        "desc": "Answers every question fast, backed by data.",
+        "featured": false,
+        "tasks": ["Ad-hoc analysis", "Dashboards", "Automated reports"]
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Board AI Advisor",
+        "desc": "Provides strategic AI vision to the board.",
+        "featured": false,
+        "tasks": ["Strategic AI advisory", "Transformation roadmap", "Governance recommendations"]
+      }
+    ]
+  },
+  "sectors": {
+    "hero": {
+      "label": "Industries",
+      "title": "We know every branch of Turkish industry",
+      "subtitle": "AI use cases adapted to the dynamics and regulations of your sector."
+    },
+    "list": [
+      { "icon": "Car", "name": "Automotive & Suppliers", "useCase": "Demand & inventory forecasting, supply optimization" },
+      { "icon": "Shirt", "name": "Textiles & Apparel", "useCase": "Collection/production planning, visual quality control" },
+      { "icon": "UtensilsCrossed", "name": "Food & Beverage", "useCase": "Predictive production, expiry/lot tracking" },
+      { "icon": "FlaskConical", "name": "Chemicals & Pharma", "useCase": "Regulatory & document automation, quality control" },
+      { "icon": "Cog", "name": "Metals & Machinery", "useCase": "Predictive maintenance, OEE improvement" },
+      { "icon": "Refrigerator", "name": "Consumer Durables & Appliances", "useCase": "Demand forecasting, after-sales service optimization" },
+      { "icon": "Building2", "name": "Construction & Building Materials", "useCase": "Project costing, supply planning" },
+      { "icon": "Armchair", "name": "Furniture & Forest Products", "useCase": "Production planning, waste reduction" },
+      { "icon": "Zap", "name": "Energy", "useCase": "Consumption forecasting, asset maintenance optimization" },
+      { "icon": "Truck", "name": "Logistics & Transport", "useCase": "Route & fleet optimization" },
+      { "icon": "ShoppingCart", "name": "Retail & E-commerce", "useCase": "Personalization, demand & price optimization" },
+      { "icon": "Wheat", "name": "Agriculture & Livestock", "useCase": "Yield forecasting, resource optimization" },
+      { "icon": "Network", "name": "Holdings & Multi-Company Groups", "useCase": "Consolidated reporting, central AI governance" }
+    ]
+  },
+  "integrations": {
+    "hero": {
+      "label": "Integrations",
+      "title": "It speaks to your existing systems",
+      "subtitle": "Connects to the ERP, BI, cloud, advertising and e-commerce systems you use, unifying your data under a single intelligence."
+    },
+    "categories": [
+      {
+        "name": "ERP",
+        "items": [
+          { "name": "SAP", "slug": "sap" },
+          { "name": "Oracle ERP", "slug": "oracle" },
+          { "name": "Microsoft Dynamics 365", "slug": "" },
+          { "name": "Logo (Tiger/GO)", "slug": "" },
+          { "name": "Netsis", "slug": "" },
+          { "name": "Mikro", "slug": "" },
+          { "name": "IFS", "slug": "" },
+          { "name": "Odoo", "slug": "odoo" }
+        ]
+      },
+      {
+        "name": "BI & Analytics",
+        "items": [
+          { "name": "Tableau", "slug": "tableau" },
+          { "name": "Power BI", "slug": "powerbi" },
+          { "name": "Looker", "slug": "looker" },
+          { "name": "Qlik", "slug": "qlik" }
+        ]
+      },
+      {
+        "name": "Cloud & Data",
+        "items": [
+          { "name": "Google Workspace", "slug": "googleworkspace" },
+          { "name": "Google BigQuery", "slug": "googlebigquery" },
+          { "name": "Microsoft 365", "slug": "" },
+          { "name": "Azure", "slug": "" },
+          { "name": "Snowflake", "slug": "snowflake" },
+          { "name": "PostgreSQL", "slug": "postgresql" },
+          { "name": "MySQL", "slug": "mysql" },
+          { "name": "MS SQL", "slug": "microsoftsqlserver" }
+        ]
+      },
+      {
+        "name": "Advertising & Marketing",
+        "items": [
+          { "name": "Google Ads", "slug": "googleads" },
+          { "name": "Google Analytics", "slug": "googleanalytics" },
+          { "name": "Search Console", "slug": "googlesearchconsole" },
+          { "name": "Meta Ads", "slug": "meta" },
+          { "name": "LinkedIn Ads", "slug": "linkedin" },
+          { "name": "TikTok Ads", "slug": "tiktok" }
+        ]
+      },
+      {
+        "name": "AI Models",
+        "items": [
+          { "name": "Anthropic Claude", "slug": "anthropic" },
+          { "name": "OpenAI ChatGPT", "slug": "openai" },
+          { "name": "Google Gemini", "slug": "googlegemini" },
+          { "name": "DeepSeek", "slug": "" },
+          { "name": "Mistral AI", "slug": "" },
+          { "name": "Meta Llama", "slug": "" },
+          { "name": "Cohere", "slug": "" }
+        ]
+      },
+      {
+        "name": "E-commerce",
+        "items": [
+          { "name": "Shopify", "slug": "shopify" },
+          { "name": "Trendyol", "slug": "trendyol" },
+          { "name": "Hepsiburada", "slug": "" },
+          { "name": "WooCommerce", "slug": "woocommerce" },
+          { "name": "Magento", "slug": "magento" },
+          { "name": "Ticimax", "slug": "" },
+          { "name": "İkas", "slug": "" }
+        ]
+      },
+      {
+        "name": "CRM & Support",
+        "items": [
+          { "name": "Salesforce", "slug": "salesforce" },
+          { "name": "HubSpot", "slug": "hubspot" },
+          { "name": "Zendesk", "slug": "zendesk" }
+        ]
+      },
+      {
+        "name": "Communication & Automation",
+        "items": [
+          { "name": "Slack", "slug": "slack" },
+          { "name": "Microsoft Teams", "slug": "" },
+          { "name": "WhatsApp Business", "slug": "whatsapp" },
+          { "name": "Zapier", "slug": "zapier" },
+          { "name": "Make", "slug": "make" },
+          { "name": "n8n", "slug": "n8n" }
+        ]
+      }
+    ],
+    "closing": {
+      "text": "…and many more. We build custom integrations for your needs.",
+      "cta": "Let's discuss your integration needs"
+    }
+  },
+  "references": {
+    "hero": {
+      "label": "Clients",
+      "title": "With Turkey's leading industrialists",
+      "subtitle": "AI projects delivered with the family businesses that form the backbone of industry."
+    },
+    "caseLabels": {
+      "problem": "Problem",
+      "solution": "Solution",
+      "result": "Result"
+    },
+    "list": [
+      {
+        "name": "Hasçevher",
+        "domain": "hascevher.com",
+        "logo": "hascevher",
+        "blurb": "[FILL IN: Short summary of the project/partnership with Hasçevher.]",
+        "case": {
+          "problem": "[FILL IN: Business problem solved]",
+          "solution": "[FILL IN: AI solution applied]",
+          "result": "[FILL IN: Measurable result achieved]"
+        }
+      },
+      {
+        "name": "EasyCep",
+        "domain": "easycep.com",
+        "logo": "easycep",
+        "blurb": "[FILL IN: Short summary of the project/partnership with EasyCep.]",
+        "case": {
+          "problem": "[FILL IN: Business problem solved]",
+          "solution": "[FILL IN: AI solution applied]",
+          "result": "[FILL IN: Measurable result achieved]"
+        }
+      },
+      {
+        "name": "Cabir Holding",
+        "domain": "cabirholding.com",
+        "logo": "cabirholding",
+        "blurb": "[FILL IN: Short summary of the project/partnership with Cabir Holding.]",
+        "case": {
+          "problem": "[FILL IN: Business problem solved]",
+          "solution": "[FILL IN: AI solution applied]",
+          "result": "[FILL IN: Measurable result achieved]"
+        }
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "label": "About",
+      "title": "The AI partner for Turkish industry",
+      "subtitle": "IntelRAYAB (RAYAB YZ REİS BİLİŞİM A.Ş.) is an AI consultancy based at Teknopark İstanbul."
+    },
+    "story": {
+      "title": "Our story",
+      "body": "We exist so that the family businesses forming the backbone of Turkish industry can use AI not as a trend, but as a tool that creates measurable business value. We build digital advisors and enterprise AI systems that connect to your data, are trained for your industry, and work alongside your team — never as a replacement for it."
+    },
+    "mission": {
+      "title": "Our mission",
+      "body": "Understandable, trustworthy AI that sits at the owner's desk. We translate complex technology into concrete business decisions."
+    },
+    "approach": {
+      "title": "Our approach",
+      "items": [
+        { "title": "Business value first", "desc": "Every project starts with a measurable return target." },
+        { "title": "Security & compliance", "desc": "Data security and regulatory compliance are non-negotiable." },
+        { "title": "Industry expertise", "desc": "We speak the language of the factory floor." },
+        { "title": "Rapid POC", "desc": "Early proof, fast learning, controlled scaling." }
+      ]
+    },
+    "why": {
+      "title": "Why us?",
+      "items": [
+        "Hands-on field experience: ad audits, BI/dashboards, process automation.",
+        "Knowledge of Turkish regulation: data protection, sector rules and compliance.",
+        "Speaking the owner's language: clear business benefit, not technical jargon."
+      ]
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        { "title": "Transparency", "desc": "No inflated promises, open communication." },
+        { "title": "Measurability", "desc": "We speak in numbers." },
+        { "title": "Trust", "desc": "We protect your data." },
+        { "title": "Continuity", "desc": "We don't leave after setup; we stay with you." }
+      ]
+    },
+    "location": {
+      "title": "Our headquarters",
+      "body": "Teknopark İstanbul, Pendik / İstanbul"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title": "Let's start your AI journey together",
+      "subtitle": "Book your Free AI Readiness Assessment, and we'll surface the opportunities that fit your company best."
+    },
+    "form": {
+      "name": "Full Name",
+      "company": "Company",
+      "position": "Position",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Your Message",
+      "messagePlaceholder": "Tell us briefly about your company and your priorities…",
+      "kvkk": "I consent to the processing of my personal data under the Privacy Notice.",
+      "kvkkLink": "Privacy Notice",
+      "submit": "Send",
+      "submitting": "Sending…",
+      "success": "Thank you! Your message has reached us; we'll get back to you shortly.",
+      "error": "Something went wrong. Please try again or email us directly.",
+      "required": "This field is required."
+    },
+    "info": {
+      "title": "Contact Details",
+      "emailLabel": "Email",
+      "email": "info@intelrayab.com",
+      "phoneLabel": "Phone",
+      "phone": "+90 (___) ___ __ __",
+      "addressLabel": "Address",
+      "address": "Teknopark İstanbul, Pendik / İstanbul",
+      "mailtoCta": "Email us directly"
+    }
+  },
+  "privacy": {
+    "title": "Privacy & Data Protection Policy",
+    "updated": "Last updated",
+    "intro": "This page is a skeleton describing how RAYAB YZ REİS BİLİŞİM A.Ş. (\"IntelRAYAB\") processes personal data under Turkey's Law No. 6698 on the Protection of Personal Data (KVKK). Finalize the text together with your legal counsel.",
+    "sections": [
+      { "title": "Data Controller", "body": "RAYAB YZ REİS BİLİŞİM A.Ş., Teknopark İstanbul, Pendik / İstanbul." },
+      { "title": "Data Processed", "body": "The name, company, position, email, phone and message content you submit via the contact form." },
+      { "title": "Purpose of Processing", "body": "Evaluating your request, contacting you and presenting a service proposal." },
+      { "title": "Your Rights", "body": "Under Article 11 of the KVKK, you have the right to access your data and request its correction or deletion." },
+      { "title": "Contact", "body": "For your requests, you can write to info@intelrayab.com." }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "The page you're looking for may have moved or never existed.",
+    "cta": "Back to home"
+  }
+}
